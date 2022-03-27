@@ -11,6 +11,7 @@
   inputs.src-gnuplotlib-v2_6_1.ref   = "refs/tags/v2.6.1";
   inputs.src-gnuplotlib-v2_6_1.owner = "planetis-m";
   inputs.src-gnuplotlib-v2_6_1.repo  = "gnuplotlib";
+  inputs.src-gnuplotlib-v2_6_1.dir   = "";
   inputs.src-gnuplotlib-v2_6_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

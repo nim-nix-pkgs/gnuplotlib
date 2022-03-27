@@ -11,6 +11,7 @@
   inputs.src-gnuplotlib-main.ref   = "refs/heads/main";
   inputs.src-gnuplotlib-main.owner = "planetis-m";
   inputs.src-gnuplotlib-main.repo  = "gnuplotlib";
+  inputs.src-gnuplotlib-main.dir   = "";
   inputs.src-gnuplotlib-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
