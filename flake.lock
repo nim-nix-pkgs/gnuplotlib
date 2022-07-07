@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "v2_1_0",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
@@ -141,11 +141,11 @@
       },
       "locked": {
         "dir": "v2_5_0",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
@@ -168,11 +168,11 @@
       },
       "locked": {
         "dir": "v2_6_1",
-        "lastModified": 1656300927,
-        "narHash": "sha256-muxAdgWESjNIw5R0vDF6kkkHIA/CRRA2LxJBRXImIi8=",
+        "lastModified": 1656746780,
+        "narHash": "sha256-wBTikH2Tv4vtJQUR4w19aK0ev2dByD6bKL3pLUVECrI=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplotlib",
-        "rev": "8c2aa269e9a7264ae68c987135323b19f8300d8d",
+        "rev": "0c983bc8719be25f029cb4dbd310195fa86c782e",
         "type": "github"
       },
       "original": {
