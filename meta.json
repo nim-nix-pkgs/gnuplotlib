@@ -82,12 +82,39 @@
   ],
   "heads": [
     {
-      "description": "gnuplot interface",
+      "name": "gnuplot",
+      "version": "2.7.0",
+      "author": "Antonis Geralis",
+      "desc": "Nim gnuplot interface",
       "license": "MIT",
-      "name": "gnuplotlib",
-      "ref": "refs/heads/main",
-      "url": "https://github.com/planetis-m/gnuplotlib",
-      "version": "main"
+      "skipDirs": [
+        "examples",
+        "tests"
+      ],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [
+        "gnuplot"
+      ],
+      "installFiles": [
+        "gnuplot.nim"
+      ],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/main"
     }
   ]
 }
